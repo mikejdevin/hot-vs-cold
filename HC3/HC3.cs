@@ -8,6 +8,7 @@ using System.Drawing;
 namespace HC3
 {
  
+	//Here is a comment.  testingin testing testing
     public enum TileType { invalid = -1 , empty = 0 , fire = 1 , 
         ice1 = 2 , ice2 = 3 , ice3 = 4 , maxice = 5}
     public enum tileTilt { vertical = 0, horizontal = 1 }
