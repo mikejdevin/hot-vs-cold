@@ -34,7 +34,10 @@ namespace test2
             gm.CompositingMode = System.Drawing.Drawing2D.CompositingMode.SourceCopy;
             gm.FillRectangle(bush, 0, 0, 700, 600);
             InitializeComponent();
-       }
+            bearImg
+        
+        
+        }
 
         void resetboard()
         {
@@ -50,6 +53,7 @@ namespace test2
             Stopwatch tim = new Stopwatch() ;
             Rectangle rekt;
             
+
 
 
             tim.Start();
