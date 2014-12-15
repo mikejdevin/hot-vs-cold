@@ -15,7 +15,7 @@ namespace test2
         static void Main()
         {
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
+            Application.SetCompatibleTextRenderingDefault(false);//Froggen
             Application.Run(new Form1());
         }
     }
