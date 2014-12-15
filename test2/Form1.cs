@@ -34,7 +34,7 @@ namespace test2
             gm.CompositingMode = System.Drawing.Drawing2D.CompositingMode.SourceCopy;
             gm.FillRectangle(bush, 0, 0, 700, 600);
             InitializeComponent();
-            bearImg = Image.FromFile(@"C:\Users\michael\Documents\Visual Studio 2013\Projects\hotvcoldlib\test2\Resources\bear.bmp",false);
+            bearImg = Image.FromFile(@"..\..\..\bear.bmp",false);
             
             
         }
